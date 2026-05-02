@@ -1,0 +1,26 @@
+{
+    "Anand Yadav": {
+        "Phone": "7778889991",
+        "Email": "asy@gmail.com",
+        "group": "Home",
+        "address": "Sambalpur",
+        "Created at": "2026-05-02T12:47:06.900419",
+        "Updated at": "2026-05-02T12:47:06.900469"
+    },
+    "Anubhab Sabar": {
+        "Phone": "3332221111",
+        "Email": "asm@gmail.com",
+        "group": "Friend",
+        "address": "NPD",
+        "Created at": "2026-05-02T12:48:27.479086",
+        "Updated at": "2026-05-02T12:49:40.389755"
+    },
+    "Payal Yadav": {
+        "Phone": "3338880777",
+        "Email": "py@gmail.com",
+        "group": "Friend",
+        "address": "Punjab",
+        "Created at": "2026-05-02T12:48:54.239795",
+        "Updated at": "2026-05-02T12:48:54.239813"
+    }
+}
