@@ -1,0 +1,7 @@
+# No external dependencies required
+# All libraries used are part of Python standard library
+
+# json      - data storage
+# re        - phone and email validation
+# csv       - export to CSV
+# datetime  - timestamps for created/updated fields
